@@ -36,9 +36,13 @@ The repository contains multiple Jupyter notebooks, each dedicated to a specific
 
 ---
 
-## 🔧 Getting Started
+🛠️ Tools and Libraries Used
+Hugging Face Transformers
+PyTorch
+TensorFlow (optional)
+LoRA and PEFT libraries
+Other utilities: scikit-learn, datasets, matplotlib, etc.
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/llm-fine-tuning.git
-   cd llm-fine-tuning
+
+✉️ Contact
+If you have any questions or feedback, feel free to reach out to me through GitHub or email me at sethitushar@hotmail.com
