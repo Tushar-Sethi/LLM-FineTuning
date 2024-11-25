@@ -37,15 +37,16 @@ The repository contains multiple Jupyter notebooks, each dedicated to a specific
 ---
 
 🛠️ Tools and Libraries Used
-Python
-Hugging Face Transformers
-Pandas
-Scikit-Learn
-Numpy
-PyTorch
-TensorFlow
-Keras
-LoRA and PEFT libraries
+
+1. Python
+2. Hugging Face Transformers
+3. Pandas
+4. Scikit-Learn
+5. Numpy
+6. PyTorch
+7. TensorFlow
+8. Keras
+9. LoRA and PEFT libraries
 
 
 
